@@ -1,4 +1,4 @@
-# 🎈 Sayonara app template
+# 🎈 Fluffy app template
 
 A simple Streamlit app template for you to modify!
 
